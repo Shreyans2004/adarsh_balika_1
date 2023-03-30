@@ -1,0 +1,240 @@
+#ab_md{
+    background-color:#7C3AED;
+    width:88%;
+    height:90px; 
+    margin:0 auto;
+    margin-top: -8px;
+    border-radius:0 0 0 20px;
+}
+.ab_md2li_1{
+    float:right;
+    list-style:none;
+    margin-right:80px;
+    color:white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.ab_md1{
+    position: relative;
+    top:10px;
+    font-family: montserrat,sans-serif;
+color:white;
+font-weight: bold;
+font-size:20px;
+margin-left: 31px;
+width:100%;
+height:50%;
+}
+.ab_md2{
+    margin-top:-16px;
+
+width:100%;
+height:50%;
+}
+#ih{
+    width:100%;
+    height:600px;
+ 
+}
+#ih_1{
+    width:100%;
+    height:75%;
+  
+    background-image: url("https://adarshbalika.netlify.app/images/hero.svg"); 
+    background-size: 100%  360px;
+    background-repeat: no-repeat;
+    margin-top: 66px;
+    
+
+}
+#ih_2{
+    margin-top:-28px;
+    text-align: center;
+    font-size:32px;
+    font-family: montserrat,sans-serif;
+    font-weight:bold;
+}
+span1{
+    color:#6B7280;
+}
+span2{
+    color:#7C3AED;
+}
+#technologies{
+width:88%;
+height:170px;
+border-radius: 20px;
+margin:0 auto;
+position: relative;
+top:-70px;
+left:0;
+background-color: #F3F4F6;
+
+}
+#technologies_1{
+    position: relative;
+top:51px;
+
+text-align: center;
+font-size: 20px;
+color: black;
+width:100%;
+height:40px;
+font-size: 24px;
+font-family: montserrat,sans-serif;
+font-weight: bold;
+
+}#technologies_2{
+    position: relative;
+    top:55px;
+    font-size: 16px;
+    text-align: center;
+    width:100%;
+height:40px;
+color: black;
+font-family: montserrat,sans-serif;
+}
+#projects{
+    width:88%;
+    height:170px;
+   
+    border-radius: 20px;
+    margin:0 auto;
+    margin-top:-62px;
+    margin-bottom:70px;
+    /* background-color: #F3F4F6; */
+}
+#projects_1{
+    position: relative;
+    top:51px;
+    
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    width:100%;
+    height:40px;
+    font-size: 24px;
+    font-family: montserrat,sans-serif;
+    font-weight: bold;
+}
+#projects_2{position: relative;
+    top:55px;
+    font-size: 16px;
+    text-align: center;
+    width:100%;
+height:40px;
+color: black;
+font-family: montserrat,sans-serif;
+    
+}
+#projects_3{
+    position: relative;
+    top:47px;
+    font-size: 16px;
+    text-align: center;
+    width:100%;
+height:40px;
+color: black;
+font-family: montserrat,sans-serif;
+}
+button{
+    width:150px;
+    height:36px;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    border-radius: 20px;
+    background-color:#7C3AED ;
+    font-family: montserrat,sans-serif;
+    color:white;
+padding:10px;
+}
+#blogs{
+    width:88%;
+    height:200px;
+   
+    border-radius: 20px;
+    margin:0 auto;
+   
+    margin-bottom:20px;
+    background-color: #F3F4F6;
+}
+
+#blogs_1{
+    position: relative;
+    top:51px;
+    
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    width:100%;
+    height:40px;
+    font-size: 24px;
+    font-family: montserrat,sans-serif;
+    font-weight: bold;
+
+}
+#blogs_2{
+    position: relative;
+    top:55px;
+    font-size: 16px;
+    text-align: center;
+    width:100%;
+height:40px;
+color: black;
+font-family: montserrat,sans-serif;
+
+}
+#blogs_3{
+    position: relative;
+    top:47px;
+    font-size: 16px;
+    text-align: center;
+    width:100%;
+height:100px;
+color: black;
+font-family: montserrat,sans-serif;
+}
+.button1{
+    border:1px solid #7C3AED;
+    width:150px;
+    height:36px;
+    font-weight: bold;
+    font-size: 16px;
+     border-radius: 20px;
+    background-color:#F3F4F6;
+    font-family: montserrat,sans-serif;
+    color:#7C3AED;
+padding:10px;
+}
+#footer{
+width:88%;
+margin:0 auto;
+margin-top:42px;
+margin-bottom: -9px;
+height:150px;
+background-color: #7C3AED;
+border-radius: 0 20px 0 0;
+}
+#footer1{
+    font-family: montserrat,sans-serif;
+position: relative;
+top:35px;
+color:#F3F4F6;
+font-weight: bold;
+text-align: center;
+font-size: 18px;
+}
+#footer2{
+    color:#F3F4F6;  
+}
+#footer2 li{
+    font-family: montserrat,sans-serif;
+    position: relative;
+    margin-right:40px;
+    top:39px;
+    right:510px;
+    font-size: 16px;
+    float:right;
+    list-style: none;
+}
